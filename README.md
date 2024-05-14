@@ -19,6 +19,8 @@ Which country is contrbuting more in sports?
 What is the gender-wise contribution in each country?
 ~~~
 
+![Screenshot 2024-05-13 204753](https://github.com/AnjaliKumari021/Sports_Data_Analysis_Using_Excel/assets/169189473/978091e5-ad67-4c17-ae74-f89b6ea3b8f8)
+
 ## Key Insights:
 1) Among all the games Beach Volleyball, Cycling Road, Canoe Slalom, Cycling Track and Triathlon are the most played games by sportsmans.
 2) when considering location type - people are mostly liking outdoor sports location to play.
@@ -26,4 +28,5 @@ What is the gender-wise contribution in each country?
 4) when comparing gnder we can see that bot male and females are equally active in sports.
 5) Here in the graph we have the list of top 10 sports where people are getting more salary.
 6) while exploring country wise: gender chart, from the top 3 countries - In Australia , Females are more active, In France , Males are more active and In USA both males and female are equally active in playing sports.
+
 
